@@ -1,6 +1,6 @@
 ﻿@ModelType IEnumerable(Of NewProject.product)
 @Code
-ViewData("Title") = "Index"
+    ViewData("Title") = "Product"
 End Code
 
 <h2>Index</h2>
